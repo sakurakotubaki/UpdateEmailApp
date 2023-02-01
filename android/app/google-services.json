@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931106196527",
+    "project_id": "updateemail-3768f",
+    "storage_bucket": "updateemail-3768f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931106196527:android:0261f56123a91864564ada",
+        "android_client_info": {
+          "package_name": "com.example.email_update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931106196527-1ku0p9uqb36hr94pq4ufgkv7hvsr80lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUawfiUqaF66qkjRyWEZm5kAzhfCnvY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931106196527-1ku0p9uqb36hr94pq4ufgkv7hvsr80lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
